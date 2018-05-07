@@ -37,8 +37,8 @@ using namespace std;
     
     //****************************************************************
     // Definition of tripleValue. The parameter, val, is a pointer.  *
-    // This function multiplies the variable pointed to by val by    *
-    // two.                                                          *
+    // This functionand uses the power math function to raise the    *
+    // the power to 3                                                *
     //****************************************************************
 
     void tripleValue(int *val)
